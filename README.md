@@ -1,4 +1,4 @@
-# Encryption-and-Decryption-of-Images
+# Encryption-and-Decryption-of-Images using DNA encoding
 ## Simple browser based application where images can be securely and quickly encrypted and decrypted in 2 simple steps :
 
 #### Step 1: By default it will be in the **encrypt a file**, and since this is a key-based encryption algorithm, enter the key/password(min length of 8). 
